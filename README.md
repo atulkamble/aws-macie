@@ -5,7 +5,7 @@ If you want to test **Amazon Macie** on an S3 bucket, you’ll need some **synth
 ```
 git clone git@github.com:atulkamble/aws-macie.git
 cd aws-macie
-
+aws macie2 disable-macie
 ```
 
 ## 📂 Sample Sensitive Data File (synthetic)
