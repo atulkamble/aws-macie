@@ -2,6 +2,11 @@ Got it 👍
 If you want to test **Amazon Macie** on an S3 bucket, you’ll need some **synthetic sensitive data**. This lets Macie detect things like PII (Personally Identifiable Information), financial data, or credentials. Here are a few safe examples you can upload to your bucket:
 
 ---
+```
+git clone git@github.com:atulkamble/aws-macie.git
+cd aws-macie
+
+```
 
 ## 📂 Sample Sensitive Data File (synthetic)
 
